@@ -1,0 +1,12 @@
+{
+  "files": {
+    "app/migrations/0001_initial.py": [
+      {
+        "id": "5cef8d70-a4d2-4900-85c5-4a8fe4ed3c99",
+        "line": 7,
+        "version": 3,
+        "index": 132
+      }
+    ]
+  }
+}
